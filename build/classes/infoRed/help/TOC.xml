@@ -1,0 +1,8 @@
+﻿<toc version="1.0">
+	<tocitem text="infoRED">
+		<tocitem text="Introducción" target="introduccion"/>
+		<tocitem text="Utilizando los menus">
+			<tocitem text="Menus ..." target="menu"/>
+		</tocitem>
+	</tocitem>
+</toc>

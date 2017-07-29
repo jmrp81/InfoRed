@@ -1,0 +1,3 @@
+infoRed.TipoRedInvalidoException
+infoRed.FueraDeRangoException
+infoRed.CustomException
