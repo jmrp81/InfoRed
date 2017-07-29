@@ -1,3 +1,4 @@
+
 # InfoRed
 Programa realizado en java, InfoRED : Aplicación para trabajar con redes
 
@@ -12,3 +13,7 @@ AUTORES: Juan Manuel Rodríguez Pérez, Abraham López Iglesias, Sara López Gon
 Resumen
 El proyecto aquí descrito posee diversas funcionalidades que tienen como principal meta facilitar al alumnado del primer curso del ciclo formativo de grado superior de desarrollo de aplicaciones multiplataforma (CFG DAM) la creación y estudio de conceptos pertenecientes al ámbito de las redes informáticas.
 De este modo, el alumno podra crear y gestionar sus propias redes y subredes, así como determinar sus hosts, todo ello a través de una interfaz amigable.
+
+Ejecución:
+
+Es requerido tener la máquina virtual de java instalada, para probarlo hacer doble click sobre el fichero InfoRed.jar
